@@ -1,8 +1,10 @@
 # Security Portfolio
 
-> **[PLACEHOLDER]** Short bio goes here — who I am, my background, and what I'm
-> working toward as I transition into a security/software engineering role.
-> *(Replace this paragraph with your own bio.)*
+> Hey everyone! My name is Amer Mahdi and I am a current Cyber Threat Analyst who graduates December 2026! I created this repository to just track my progress in my career as well as progress in cybersecurity in general. I am passionate about blue-teaming and defending critical infrastructures. My reasoning behind this is because as a CTA, I've begun to realize the systems and data I defend actually impact real people. A financial institute holds the livelihood of entire families. Defending that is meaningful and noble.
+
+> I intend on eventually transitioning into an engineering role where I will be able to actually build out the infrastructure and systems used to defend people. I hope you enjoy what you read, if you have any questions, feel free to reach out on LinkedIn!
+
+[`https://www.linkedin.com/in/amer-mahdi/`]
 
 ## What's in this repo
 
@@ -28,20 +30,15 @@ journal of ongoing progress.
 
 ## Currently working on
 
-> **[PLACEHOLDER]** e.g. "Working through HTB machines and writing up each one,
-> plus building out my first tool in `tools/`." *(Replace with what you're
-> actually doing right now.)*
+> Currently working on a personalized home lab to build detections within Elastic.
 
 ## Featured Projects
 
 ### perimeter.report
 
-> **[PLACEHOLDER — fill in the real details below]**
-
-[PERIMETER_REPORT_URL]
+[PERIMETER.REPORT]
 
 A mock OSINT reconnaissance tool exploring [agentic workflow / target surface
 mapping / etc.] — built agentically with Claude Code as a case study in
-AI-assisted security tooling. *(Replace this one-line description and the
-`[PERIMETER_REPORT_URL]` link above with the real repo/site link and an
-accurate description.)*
+AI-assisted security tooling. It is completely free to use despite the pricing model (drafted as a theoretical tool for small businesses) *(Replace this one-line description and the
+`https://perimeter.report/`
