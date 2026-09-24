@@ -36,7 +36,7 @@ journal of ongoing progress.
 
 ### perimeter.report
 
-[See the site here](https:/perimeter.report)
+[See the site here](https://perimeter.report)
 
 A mock OSINT reconnaissance tool exploring [agentic workflow / target surface
 mapping / etc.] — built agentically with Claude Code as a case study in
