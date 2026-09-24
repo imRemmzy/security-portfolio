@@ -34,7 +34,7 @@ journal of ongoing progress.
 
 ### perimeter.report
 
-[See the site here](https://perimeter.report/)
+[See the site here](https://perimeter.report)
 
 A subscription app that gives a small business a plain-English A–F security
 report card for its domain, built entirely from public data — built
