@@ -1,5 +1,6 @@
 # perimeter.report — what it is, and how it was built
 
+[See the site here](https://perimeter.report)
 > This isn't a fill-in-the-blank template like the ones that used to live in
 > this folder — it's a real writeup of a real project, kept here as the
 > worked example of "built agentically with Claude Code" referenced from the
