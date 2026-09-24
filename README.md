@@ -4,7 +4,7 @@
 
 > I intend on eventually transitioning into an engineering role where I will be able to actually build out the infrastructure and systems used to defend people. I hope you enjoy what you read, if you have any questions, feel free to reach out on LinkedIn!
 
-[`https://www.linkedin.com/in/amer-mahdi/`]
+[`(https://www.linkedin.com/in/amer-mahdi/)`]
 
 ## What's in this repo
 
