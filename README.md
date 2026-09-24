@@ -4,7 +4,7 @@
 
 > I intend on eventually transitioning into an engineering role where I will be able to actually build out the infrastructure and systems used to defend people. I hope you enjoy what you read, if you have any questions, feel free to reach out on LinkedIn!
 
-[My LinkedIn >](https://www.linkedin.com/in/amer-mahdi/)
+[My LinkedIn](https://www.linkedin.com/in/amer-mahdi/)
 
 ## What's in this repo
 
@@ -36,7 +36,7 @@ journal of ongoing progress.
 
 ### perimeter.report
 
-[See the site here >](PERIMETER.REPORT)
+[See the site here](https:/perimeter.report)
 
 A mock OSINT reconnaissance tool exploring [agentic workflow / target surface
 mapping / etc.] — built agentically with Claude Code as a case study in
